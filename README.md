@@ -35,12 +35,14 @@ Welcome to the Vicoa community repository! This is the central place for issues,
 
 🎥 **Watch Vicoa in Action**
 
-[![Vicoa Introduction | Demo Video](https://img.youtube.com/vi/ZBpNzqqLYmg/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZBpNzqqLYmg)
+<a href="https://www.youtube.com/watch?v=ZBpNzqqLYmg" target="_blank">
+  <img src="https://img.youtube.com/vi/ZBpNzqqLYmg/maxresdefault.jpg" alt="Vicoa Introduction | Demo Video">
+</a>
 
 
 ### Key Features
 
-- 💻: **Cross-platform vibe coding** - Start on desktop, continue on mobile
+- 💻 **Cross-platform vibe coding** - Start on desktop, continue on mobile
 - 📱 **Mobile-first design** - Full coding experience on phones and tablets  
 - 🔔 **Smart notifications** - Get alerts when your AI agent needs input
 - 🤖 **Original Vibe Coding Experience** - Vibe coding with normal Claude Code and Codex sessions
@@ -48,15 +50,15 @@ Welcome to the Vicoa community repository! This is the central place for issues,
 
 ## Get Started
 
-1. Quick start with a simple command:
+- Quick start with a simple command:
 
 ```bash
 pip install vicoa && vicoa
 ```
 
-2. [📱 Download the iOS App](https://apps.apple.com/app/id6751626168)
+- [📱 Download the iOS App](https://apps.apple.com/app/id6751626168)
 
-3. [🌐 Web Dashboard](https://vibecodeanywhere.com)
+- [🌐 Web Dashboard](https://vibecodeanywhere.com)
 
 
 
@@ -95,7 +97,7 @@ We love hearing your ideas! When suggesting features:
 
 - 📧 **Email**: hi@habitrewards.me
 - 🐦 **Twitter**: [@vicoaai](https://x.com/vicoaai)
-- 💼 **LinkedIn**: [Vicoa Company Page](https://linkedin.com/company/vicoa)
+- 💼 **LinkedIn**: [Vicoa](https://linkedin.com/company/vicoa)
 - 🌐 **Website**: [vibecodeanywhere.com](https://vibecodeanywhere.com)
 
 ---
